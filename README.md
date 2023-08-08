@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@kishans36200218" target="blank">
   <img align="center" src="https://ww1.freelogovectors.net/wp-content/uploads/2023/07/twitter_x-logo-freelogovectors.net_.png" alt="@kishans36200218" height="40" width="54"  /></a>
-<a href="https://linkedin.com/in/kishan singh thakur" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="kishan singh thakur" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/kishan-singh-thakur-26b912255 " target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="kishan singh thakur" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/kishan12363" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="kishan1236" height="40" width="45" /></a>
 </p>
 
