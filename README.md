@@ -42,5 +42,5 @@
 </p>
 
 <p>
-  <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kishansingh0001&" alt="kishansingh0001"   />
+  <img  align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kishansingh0001&" alt="kishansingh0001"   />
 </p>
