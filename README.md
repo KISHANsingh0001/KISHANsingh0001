@@ -34,6 +34,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/503/848/png-clipart-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text.png" alt="javascript" width="59" height="49" />
   </a>
+   <img alt="VS Code" src="https://wakatime.com/static/img/editor-icons/vs-code-128.png" loading="lazy" width="45" height="50" >
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishansingh0001&show_icons=true&locale=en&layout=compact" alt="kishansingh0001" height="195px" />
