@@ -12,13 +12,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@kishans36200218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kishans36200218" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kishan singh thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan singh thakur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kishan12363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishan12363" height="30" width="40" /></a>
+<a href="https://twitter.com/@kishans36200218" target="blank">
+  <img align="center" src="https://ww1.freelogovectors.net/wp-content/uploads/2023/07/twitter_x-logo-freelogovectors.net_.png" alt="@kishans36200218" height="40" width="54"  /></a>
+<a href="https://linkedin.com/in/kishan singh thakur" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="kishan singh thakur" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/kishan12363" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="kishan1236" height="40" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png" alt="cplusplus" width="45" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="40" height="49"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://tht13.gallerycdn.vsassets.io/extensions/tht13/html-preview-vscode/0.2.5/1544710873380/Microsoft.VisualStudio.Services.Icons.Default" alt="html5" width="59" height="49"/>
+  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/503/848/png-clipart-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text.png" alt="javascript" width="59" height="49"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishansingh0001&show_icons=true&locale=en&layout=compact" alt="kishansingh0001" /></p>
 
