@@ -24,7 +24,8 @@
 <a href="https://github.com/KISHANsingh0001/github-stats">
 
 </a>
-### :hammer_and_wrench: Languages and Tools 
+
+### 🛠️ hammer_and_wrench: Languages and Tools 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
