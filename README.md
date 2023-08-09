@@ -8,13 +8,13 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Second year student at Globle engineering collage
+- 👨‍💻 I'm a B-Tech CSE Second year student.
 
 - 🔭 I’m currently working on **FLL STACK WEB DEVELOPMENT** & focusing on **C++ Datastructure**  
 
 - 🌱 I’m currently developing and learning **JavaScript other full-stack tools.**
 
-- ⚡ Fun fact : **"🚀 Coding by day, gaming by night 🎮✨"** 
+- ⚡ Fun fact : **"🚀 Exploring the realms of code & creativity! 🎨✨"** 
 
 --- 
 
