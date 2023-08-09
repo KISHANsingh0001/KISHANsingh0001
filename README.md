@@ -37,7 +37,7 @@
    <img alt="VS Code" src="https://wakatime.com/static/img/editor-icons/vs-code-128.png" loading="lazy" width="45" height="50" >
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishansingh0001&show_icons=true&locale=en&layout=compact" alt="kishansingh0001" height="195px" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishansingh0001&show_icons=true&locale=en&layout=compact" alt="kishansingh0001" height="195px" width="420px" />
 </p> 
 <p>&nbsp; <img align="centre" src="https://github-readme-stats.vercel.app/api?username=kishansingh0001&show_icons=true&locale=en" alt="kishansingh0001" />
 </p>
