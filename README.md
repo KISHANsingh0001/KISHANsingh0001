@@ -44,6 +44,7 @@
     <a href="https://www.linkedin.com/in/kishan-singh-thakur-26b912255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.kishansinghthakur27@gmail.com"
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/kishan12363">
