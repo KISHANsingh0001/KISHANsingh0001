@@ -49,8 +49,8 @@
     <a href="https://auth.geeksforgeeks.org/user/kishan12363">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
-    <a href="/>
-    <img src="" alt="GFG"/>
+    <a href="https://www.leetcode.com/kishan12363" target="blank">
+    <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="kishan1236" height="29" width="120" />
     </a>
 </div>
 
