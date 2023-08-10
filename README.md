@@ -11,7 +11,7 @@
 ### 👦 About Me
 - 👨‍💻 I'm a B-Tech CSE Second year student.
 
-- 🔭 I’m currently working on **FLL STACK WEB DEVELOPMENT** & focusing on **C++ Datastructure**  
+- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT** & focusing on **C++ Datastructure**  
 
 - 🌱 I’m currently developing and learning **JavaScript other full-stack tools.**
 
