@@ -38,6 +38,7 @@
  
 </div>
 
+My Email ID - kishansinghthakur27@gmail.com
 ---
 ### 🔗 Social info
 
