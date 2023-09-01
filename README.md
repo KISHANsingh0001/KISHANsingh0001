@@ -20,7 +20,7 @@
 --- 
 
 ### 🔥 My Stats 
-<img width="425"  src="https://github-readme-stats.vercel.app/api?username=KISHANsingh0001&show_icons=true&theme=tokyonight" /> <img width="445" src="https://streak-stats.demolab.com/?user=KISHANsingh0001&theme=react" />
+<img width="400"  src="https://github-readme-stats.vercel.app/api?username=KISHANsingh0001&show_icons=true&theme=tokyonight" /> <img width="415" src="https://streak-stats.demolab.com/?user=KISHANsingh0001&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=KISHANsingh0001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KISHANsingh0001&theme=react&line_height=20&hide=css"/> </a>
  
