@@ -55,6 +55,9 @@ My Email ID - kishansinghthakur27@gmail.com
     <a href="https://www.leetcode.com/kishan12363" target="blank">
     <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="kishan1236" height="29" width="120" />
     </a>
+    <a href="https://twitter.com/KishanS36200218" target="blank">
+    <img src="https://w7.pngwing.com/pngs/424/95/png-transparent-twitter-3d-twitter-twitter-logo-3d-twitter-logo-social-media-logo-3d-icon.png" alt="kishan1236" height="29" width="30" />
+    </a>
 </div>
 
 ---
