@@ -52,7 +52,7 @@ My Email ID - kishansinghthakur27@gmail.com
     <a href="https://auth.geeksforgeeks.org/user/kishan12363">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
-    <a href="https://www.leetcode.com/kishan12363" target="blank">
+    <a href="https://leetcode.com/Kishan0001/" target="blank">
     <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="kishan1236" height="29" width="120" />
     </a>
     <a href="https://twitter.com/KishanS36200218" target="blank">
