@@ -49,6 +49,10 @@
             alt="typeScript" width="55" height="55" loading="lazy"  />
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--open-source-framework-code-logos-and-brands-pack-icons-9325303.png"
             alt="typeScript" width="54" height="54" loading="lazy"/>
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp"
+            alt="typeScript" width="54" height="54" loading="lazy"/>
+   <img src="https://w7.pngwing.com/pngs/134/546/png-transparent-git-version-control-system-vcs-git-logo-github-repositories-3d-icon-thumbnail.png"
+            alt="Git" width="54" height="54" loading="lazy"/>
     </div>
 
 My Email ID - kishansinghthakur27@gmail.com
