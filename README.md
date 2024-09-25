@@ -9,7 +9,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Second year student.
+- 👨‍💻 I'm a B-Tech CSE Third Year student.
 
 - 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT** & focusing on **C++ Datastructure**  
 
