@@ -28,9 +28,9 @@
 ---
 ### 🛠️ hammer_and_wrench: Languages and Tools 
 
- <div style="display: flex; justify-content: center; align-items: center; gap: 38px; background-color: black;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" loading="lazy" />
+ <div style="display: flex; justify-content: center; align-items: center; gap: 48px; background-color: black;">
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-s-3d-icon-download-in-png-blend-fbx-gltf-file-formats--c-plus-logo-programming-language-coding-lang-pack-logos-icons-7578015.png?f=webp" alt="C++" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" loading="lazy" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50"
             height="50" />
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css3-html5-cascading-style-sheets-coding-lang-pack-logos-icons-7578024.png" alt="CSS" width="55"
