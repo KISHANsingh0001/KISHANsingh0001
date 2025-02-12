@@ -61,6 +61,7 @@
             alt="PostgreaseSql" width="69" height="59" loading="lazy"/>
    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="PostgreaseSql" width="69" height="59" loading="lazy"/>
    <img src="https://miro.medium.com/v2/resize:fit:983/1*W0fC854FAMD1EP60bnl2lg.png" alt="PostgreaseSql" width="69" height="59" loading="lazy"/>
+   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2013-2015.png" alt="Docker" width="99" height="59" loading="lazy"/>
     </div>
 
 My Email ID - kishansinghthakur27@gmail.com
