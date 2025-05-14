@@ -24,6 +24,13 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=KISHANsingh0001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KISHANsingh0001&theme=blue-green&line_height=20&hide=css"/> </a>
  
+ ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KISHANsingh0001/KISHANsingh0001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KISHANsingh0001/KISHANsingh0001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KISHANsingh0001/KISHANsingh0001/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 ### 🛠️ hammer_and_wrench: Languages and Tools 
